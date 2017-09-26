@@ -4,9 +4,12 @@ Der Songprompter ist ein bühnentaugliches Gerät, das Musikern Texte, Akkorde u
 
 # Das Gerät
 
+[Bilder](/images)
 
 # Songtexte schreiben
 
+[Howto](/howto)
+
 # Kontakt
 
-Impressum und Kontakt: https://danielfett.de/de/ueber-mich/
+[Impressum und Kontakt](https://danielfett.de/de/ueber-mich/)
