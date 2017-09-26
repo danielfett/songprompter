@@ -1,7 +1,9 @@
 Der Songprompter ist ein bühnentaugliches Gerät, das Musikern Texte, Akkorde und andere Informationen anzeigt.
 
 # Das Gerät
-!()[image-1.jpg]
+
+!(Bild des Songprompters)[image-1.jpg]
+
 ![image-2.jpg]
 
 
