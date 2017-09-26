@@ -1,10 +1,12 @@
-# Songprompter
-Songtexte einfach anzeigen
+Der Songprompter ist ein bühnentaugliches Gerät, das Musikern Texte, Akkorde und andere Informationen anzeigt.
 
-## Das Gerät
+# Das Gerät
+!()[image-1.jpg]
+![image-2.jpg]
 
-## Songtexte schreiben
 
-## Kontakt
+# Songtexte schreiben
+
+# Kontakt
 
 Impressum und Kontakt: https://danielfett.de/de/ueber-mich/
