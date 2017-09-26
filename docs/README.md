@@ -6,9 +6,10 @@ Der Songprompter ist ein bühnentaugliches Gerät, das Musikern Texte, Akkorde u
 
 [Bilder](/images)
 
-# Songtexte schreiben
+[Bedienungsanleitung](/howto-use)
 
-[Howto](/howto)
+[Songtexte schreiben](/howto-songtexte)
+
 
 # Kontakt
 
