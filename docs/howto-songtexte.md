@@ -16,4 +16,54 @@ Alle .txt-Dateien im Wurzelverzeichnis des beim Start angeschlossenen Sticks wer
 
 ## Songtexte formatieren
 
-Songtexte werden in einem einfachen Textformat abgelegt. 
+Songtexte werden einfach im TXT-Format gespeichert, wobei einige einfache Formatierungsanweisungen verwenden können:
+
+### Absätze
+Absätze in der Textdatei werden 1:1 auch am Songprompter angezeigt. (Lediglich Leerzeilen über und unter dem Text werden zur besseren Ausnutzung des Platzes entfernt.)
+
+```
+Erste Strophe.
+
+Zweite Strophe.
+```
+
+### Neue Seite beginnen
+Eine Zeile mit Strichen ("-----") beginnt eine neue "Seite" im Songtext. Die Seiten werden einzeln angezeigt und zwischen ihnen kann man mit dem Fußschalter umgeschaltet werden. 
+
+```
+Erste Strophe.
+
+Zweite Strophe.
+-----
+Dritte Strophe.
+
+Vierte Strophe.
+```
+
+### Textgröße
+Die Textgröße zur Anzeige der einzelnen Seiten wird automatisch so gewählt, dass der Platz möglichst gut ausgenutzt wird.
+
+### Dicktengleiche Schrift (Monospace)
+Text, der auf die Anweisung "<pre>" folgt, wird in einer dicktengleichen Schrift angezeigt. Das erleichtert es, beispielsweise Akkorde an exakte Stellen über einem Text zu platzieren, denn die Anzeige auf dem Songprompter sieht i.d.R. genauso aus wie bei der Eingabe im Texteditor. Die Anweisung gilt nur bis zum Ende einer Seite oder bis sie mit "<pre>" beendet wird.
+
+```
+<pre>
+E  A  D   G
+Erste Strophe.
+
+----
+<pre>
+E  A  D   G
+Zweite Strophe.
+```
+
+### Fettdruck, Kursiv, ...
+Einige übliche HTML-Formatierungen können ebenso genutzt werden.
+
+```
+Dies ist <b>besonders</b> wichtig.
+
+Dies ist <i>kursiv</i>.
+
+Dies ist <u>unterstrichen</u>.
+```
