@@ -1,6 +1,7 @@
-Der Songprompter ist ein bühnentaugliches Gerät, das Musikern Texte, Akkorde und andere Informationen anzeigt.
+<b>Der Songprompter ist ein bühnentaugliches Gerät, das Musikern Texte, Akkorde und andere Informationen anzeigt.</b>
 
 ![Songprompter](/assets/images/teaser.jpg)
+
 [Mehr Bilder](/images)
 
 Der Songprompter ist ein "Bühnenmonitor" im wörtlichen Sinne: Er ist in das Gehäuse eines Monitorlautsprechers eingebaut, gibt aber keinen Ton von sich. Stattdessen werden die Songtexte groß und gut ablesbar auf einem Bildschirm dargestellt. Gesteuert wird die Anzeige über einen Fußschalter, die anzuzeigenden Informationen werden über einen USB-Stick bereitgestellt. 
