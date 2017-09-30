@@ -1,4 +1,4 @@
-Der Songprompter ist ein bühnentaugliches Gerät, das Musikern Texte, Akkorde und andere Informationen anzeigt.
+Der Songprompter ist ein bühnentaugliches Gerät, das Musikern Texte, Akkorde und andere Informationen anzeigt. Der Songprompter wird über einen Fußschalter gesteuert, die anzuzeigenden Informationen werden über einen USB-Stick bereitgestellt.
 
 ![Songprompter](/assets/images/teaser.jpg)
 
@@ -8,9 +8,16 @@ Der Songprompter ist ein bühnentaugliches Gerät, das Musikern Texte, Akkorde u
 
 [Bedienungsanleitung](/howto-use)
 
-[Songtexte schreiben](/howto-songtexte)
-
 
 # Kontakt
 
-[Impressum und Kontakt](https://danielfett.de/de/ueber-mich/)
+Für alle Fragen zum Songprompter und um etwaige Fehler zu melden wenden Sie sich bitte per E-Mail an [songprompter@danielfett.de](mailto:songprompter@danielfett.de).
+
+# Impressum
+
+Christian Fett
+Zehntstraße 11
+56861 Reil
+
+Tel. 
+songprompter@danielfett.de
