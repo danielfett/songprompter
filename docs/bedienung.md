@@ -5,7 +5,7 @@ Der Songprompter verfügt nur über die absolut nötige Anzahl an Bedienelemente
 
 # Inbetriebnahme
 
-Nach Vorbereitung des USB-Sticks (siehe unten) muss der Songprompter nur noch gestartet werden: 
+Nach Vorbereitung der Songtexte auf dem USB-Stick (siehe unten) muss der Songprompter nur noch gestartet werden: 
 
 1. Fußschalter und USB-Stick jeweils in einen der beiden USB-Anschlüsse einstecken
 2. Stromversorgung einschalten
@@ -13,17 +13,14 @@ Nach Vorbereitung des USB-Sticks (siehe unten) muss der Songprompter nur noch ge
 
 Der Songprompter zeigt jetzt die Songtexte auf dem USB-Stick in einer übersichtlichen Liste an. Mit den beiden äußeren Fußschaltern wird in dieser Liste ein Eintrag ausgewählt und mit dem mittleren Fußschalter bestätigt.
 
-Der Songtext wird jetzt in [selbst definierbaren Abschnitten](/howto-songtexte) angezeigt. Mit den äußeren beiden Fußschaltern kann zwischen diesen Abschnitten hin- und hergeschaltet werden. Nach dem Ende eines Songs wird der erste Abschnitt des nächsten Songs angezeigt. Mit dem mittleren Fußschalter kann wieder zum Hauptmenü zurückgekehrt werden.
+Der Songtext wird jetzt in selbst definierbaren Abschnitten (siehe unten) angezeigt. Mit den äußeren beiden Fußschaltern kann zwischen diesen Abschnitten hin- und hergeschaltet werden. Nach dem Ende eines Songs wird der erste Abschnitt des nächsten Songs angezeigt. Mit dem mittleren Fußschalter kann wieder zum Hauptmenü zurückgekehrt werden.
 
 # Songtexte bereitstellen
 
-Songtexte für den Songprompter werden einfach auf einem USB-Stick gespeichert.
+Songtexte für den Songprompter werden einfach an einem Computer auf einen USB-Stick gespeichert.
 
-## USB-Stick vorbereiten
 
-USB-Sticks müssen mit FAT32 formatiert sein. Das ist bei neu gekauften USB-Sticks in der Regel der Fall. Erkennt der Songprompter den USB-Stick nicht, hilft eventuell eine [Neuformatierung](http://praxistipps.chip.de/usb-stick-formatieren_2850) - hierbei gehen allerdings alle Daten auf dem USB-Stick verloren. 
-
-## Songtexte speichern
+## Dateien anlegen und speichern
 
 Songtexte werden einfach direkt auf dem USB-Stick als TXT-Dateien gespeichert. Die Dateinamen müssen auf .txt enden und die Dateien müssen im Wurzelverzeichnis des USB-Sticks liegen und dürfen nicht in Unterordnern sein. Andere Dateien dürfen aber auf dem USB-Stick enthalten sein, sie stören den Songprompter nicht.
 
@@ -35,7 +32,11 @@ Die .txt-Dateien sollten nicht mit einer Textverarbeitung wie Word oder Wordpad 
 
 ![](/assets/images/songtext-notepad.jpg)
 
-## Songtexte formatieren
+## Sortieren
+
+Die Sortierung der Songtexte erfolgt in alphabetischer Reihenfolge der Dateinamen. Eine individuelle Reihenfolge der Dateien kann also einfach über Ziffern vor dem Dateinamen festgelegt werden. Für eine korrekte Sortierung sollten einstelligen Zahlen Nullen vorangestellt werden. Ein Beispiel ist im Bild oben zu sehen. 
+
+## Formatieren
 
 Songtexte werden einfach im TXT-Format gespeichert, wobei einige einfache Formatierungsanweisungen verwenden können (siehe auch Beispieldatei unten):
 
@@ -92,6 +93,16 @@ Dies ist <u>unterstrichen</u>.
 ## Beispieldatei
 
 In [dieser Beispieldatei](https://github.com/webhamster/songprompter/blob/master/examples/02%20Far%20Away.txt) werden einige der Formatierungsanweisungen benutzt.
+
+# Es geht nicht, was tun?
+
+Startet der Songprompter nicht oder zeigt nicht die erwarteten Songtexte an, helfen vielleicht die folgenden Tipps. Sollte keine Lösung dabei sein, bitte eine E-Mail mit einer genauen Problembeschreibung (am besten mit Bildschirmfotos) an [songprompter@danielfett.de](mailto:songprompter@danielfett.de) schreiben.
+
+## USB-Stick formatieren
+
+USB-Sticks müssen mit FAT32 formatiert sein. Das ist bei neu gekauften USB-Sticks in der Regel der Fall. Erkennt der Songprompter den USB-Stick nicht, hilft eventuell eine [Neuformatierung](http://praxistipps.chip.de/usb-stick-formatieren_2850) - hierbei gehen allerdings alle Daten auf dem USB-Stick verloren. 
+
+
 
 [zurück](/)
 
