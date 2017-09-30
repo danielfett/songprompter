@@ -10,13 +10,17 @@ USB-Sticks müssen mit FAT32 formatiert sein. Das ist bei neu gekauften USB-Stic
 
 Songtexte werden einfach direkt auf dem USB-Stick als TXT-Dateien gespeichert. Die Dateinamen müssen auf .txt enden und die Dateien müssen im Wurzelverzeichnis des USB-Sticks liegen und dürfen nicht in Unterordnern sein. Andere Dateien dürfen aber auf dem USB-Stick enthalten sein, sie stören den Songprompter nicht.
 
+Alle .txt-Dateien im Wurzelverzeichnis des beim Start angeschlossenen Sticks werden im Songprompter zur Auswahl angezeigt.
+
+![](/assets/images/usb-stick-contents.jpg)
+
 Die .txt-Dateien sollten nicht mit einer Textverarbeitung wie Word oder Wordpad bearbeitet werden sondern mit einem einfachen Texteditor wie dem bei Windows enthaltenen Notepad.
 
-Alle .txt-Dateien im Wurzelverzeichnis des beim Start angeschlossenen Sticks werden im Songprompter zur Auswahl angezeigt.
+![](/assets/images/songtext-notepad.jpg)
 
 ## Songtexte formatieren
 
-Songtexte werden einfach im TXT-Format gespeichert, wobei einige einfache Formatierungsanweisungen verwenden können:
+Songtexte werden einfach im TXT-Format gespeichert, wobei einige einfache Formatierungsanweisungen verwenden können (siehe auch Beispieldatei unten):
 
 ### Absätze
 Absätze in der Textdatei werden 1:1 auch am Songprompter angezeigt. (Lediglich Leerzeilen über und unter dem Text werden zur besseren Ausnutzung des Platzes entfernt.)
@@ -28,7 +32,7 @@ Zweite Strophe.
 ```
 
 ### Neue Seite beginnen
-Eine Zeile mit Strichen ("-----") beginnt eine neue "Seite" im Songtext. Die Seiten werden einzeln angezeigt und zwischen ihnen kann man mit dem Fußschalter umgeschaltet werden. 
+Eine Zeile mit drei oder mehr Strichen ("-----") beginnt eine neue "Seite" im Songtext. Die Seiten werden einzeln angezeigt und zwischen ihnen kann man mit dem Fußschalter umgeschaltet werden. So kann ein Lied in übersichtliche Stücke aufgeteilt werden.
 
 ```
 Erste Strophe.
@@ -58,7 +62,7 @@ Zweite Strophe.
 ```
 
 ### Fettdruck, Kursiv, ...
-Einige übliche HTML-Formatierungen können ebenso genutzt werden.
+Einige [übliche HTML-Formatierungen](http://doc.qt.io/qt-5/richtext-html-subset.html) können ebenso genutzt werden.
 
 ```
 Dies ist <b>besonders</b> wichtig.
@@ -67,3 +71,9 @@ Dies ist <i>kursiv</i>.
 
 Dies ist <u>unterstrichen</u>.
 ```
+
+## Beispieldatei
+
+In [dieser Beispieldatei](https://github.com/webhamster/songprompter/blob/master/examples/02%20Far%20Away.txt) werden einige der Formatierungsanweisungen benutzt.
+
+[zurück](/)
