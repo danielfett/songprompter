@@ -4,7 +4,16 @@
 
 Der Songprompter ist ein "Bühnenmonitor" im wörtlichen Sinne: Er ist in das Gehäuse eines Monitorlautsprechers eingebaut, gibt aber keinen Ton von sich. Stattdessen werden die Songtexte groß und gut ablesbar auf einem Bildschirm dargestellt. Gesteuert wird die Anzeige über einen Fußschalter, die anzuzeigenden Informationen werden über einen USB-Stick bereitgestellt. 
 
+Die Vorteile des Songprompters gegenüber anderen Lösungen:
 
+  * Kein Papierhandling
+  * Keine wackeligen Notenständer
+  * Keine Sichtbehinderung für das Publikum und Fotografen
+  * Einfaches Umschalten über Fußschalter (andere Lösungen möglich) - die Hände bleiben frei
+  * Großes, gut ablesbares Display
+  * Robustes Gehäuse mit Abdeckplatte für den Transport
+  * Zuverlässige Lösung - einmal gestartet, ist das Gerät fast nicht aus dem Tritt zu bringen
+  * Gegenüber laptop- oder tabletbasierten Lösungen: Speziell angepasste Software, keine Störungen durch Updates oder andere Software auf dem Gerät
 
 # Entstehung
 
