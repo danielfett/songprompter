@@ -9,7 +9,7 @@ Der Songprompter ist ein "Bühnenmonitor" im wörtlichen Sinne: Er ist in das Ge
 
 # Entstehung
 
-Der Songprompter wurde entwickelt von Christian und Daniel Fett. Christian, Sänger von [Ghosttown Company](http://www.ghosttown-company.de/) und [Ghosttown Inquiry](https://ghosttown-inquiry.de/), hatte keine Lust mehr auf wegwehende Songtexte auf Papier und wackelige Notenständer die dem Zuschauer den Blick auf die Band verstellen. Eine andere Lösung musste her! Daniel hatte das notwendige technische Know-How und zusammen haben sie den Songprompter entwickelt und den ersten Prototypen gebaut.
+Der Songprompter wurde entwickelt von Christian und Daniel Fett. Christian, Sänger von [Ghosttown Company](http://www.ghosttown-company.de/) und [Ghosttown Inquiry](https://ghosttown-inquiry.de/), hatte keine Lust mehr auf wegwehende Songtexte auf Papier und wackelige Notenständer die dem Zuschauer den Blick auf die Band verstellen. Eine andere Lösung musste her! Christian schwebte die Idee vom Bühnenmonitorformat vor, Daniel hatte das notwendige IT-Know-How und zusammen haben sie den Songprompter entwickelt und den ersten Prototypen gebaut.
 
 # Bedienung
 
