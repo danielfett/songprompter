@@ -12,10 +12,10 @@ Die Vorteile des Songprompters gegenüber anderen Lösungen:
   * Keine wackeligen Notenständer
   * Keine Sichtbehinderung für das Publikum und Fotografen
   * Einfaches Umschalten über Fußschalter (andere Lösungen möglich) - die Hände bleiben frei
-  * Großes, gut ablesbares Display
+  * Großes, mattes Display für gute Ablesbarkeit auch mit Bühnenbeleuchtung
   * Robustes Gehäuse mit Abdeckplatte für den Transport
   * Zuverlässige Lösung - einmal gestartet, ist das Gerät fast nicht aus dem Tritt zu bringen
-  * Gegenüber laptop- oder tabletbasierten Lösungen: Speziell angepasste Software, keine Störungen durch Updates oder andere Software auf dem Gerät
+  * Gegenüber laptop- oder tabletbasierten Lösungen: Speziell angepasste Software, keine Störungen durch Updates oder andere Software auf dem Gerät, unabhängig von Akkulaufzeiten, braucht nicht heruntergefahren zu werden
   * Extrem simple Inbetriebnahme beim Bühnenaufbau: Strom, USB-Stick und Fußschalter einstecken, fertig!
 
 # Entstehung
