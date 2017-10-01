@@ -16,6 +16,7 @@ Die Vorteile des Songprompters gegenüber anderen Lösungen:
   * Robustes Gehäuse mit Abdeckplatte für den Transport
   * Zuverlässige Lösung - einmal gestartet, ist das Gerät fast nicht aus dem Tritt zu bringen
   * Gegenüber laptop- oder tabletbasierten Lösungen: Speziell angepasste Software, keine Störungen durch Updates oder andere Software auf dem Gerät, unabhängig von Akkulaufzeiten, braucht nicht heruntergefahren zu werden
+  * Keine Funkverbindungen (Bluetooth, WLAN, ...) - zuverlässiger Betrieb auf jeder Bühne
   * Extrem simple Inbetriebnahme beim Bühnenaufbau: Strom, USB-Stick und Fußschalter einstecken, fertig!
 
 # Entstehung
