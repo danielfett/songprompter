@@ -6,4 +6,6 @@
 
 ![Songprompter von der Seite](/assets/images/image-2.jpg)
 
+![Songprompter mit Transportschutz](/assets/images/image-3.jpg)
+
 [zurück](/)
