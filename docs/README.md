@@ -10,6 +10,8 @@ Die Vorteile des Songprompters gegenüber anderen Lösungen:
 
   * Kein Papierhandling
   * Keine wackeligen Notenständer
+  * Unabhängig von Mikrofonständern und Stativen
+  * Großer Bildschirm - noch in 4-5 Metern Entfernung problemlos ablesbar
   * Keine Sichtbehinderung für das Publikum und Fotografen
   * Einfaches Umschalten über Fußschalter (andere Lösungen möglich) - die Hände bleiben frei
   * Großes, mattes Display für gute Ablesbarkeit auch mit Bühnenbeleuchtung
