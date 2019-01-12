@@ -102,7 +102,24 @@ Startet der Songprompter nicht oder zeigt nicht die erwarteten Songtexte an, hel
 
 USB-Sticks müssen mit FAT32 formatiert sein. Das ist bei neu gekauften USB-Sticks in der Regel der Fall. Erkennt der Songprompter den USB-Stick nicht, hilft eventuell eine [Neuformatierung](http://praxistipps.chip.de/usb-stick-formatieren_2850) - hierbei gehen allerdings alle Daten auf dem USB-Stick verloren. 
 
+## Tipps und Tricks
 
+### Bildschirm rotieren oder spiegeln
+Je nach Aufstellung des Songprompters - oder bei Benutzung der Software mit externen Monitoren - kann es sinnvoll sein, den Bildschirm zu drehen. Dies kann leicht wie folgt erreicht werden:
+
+  * Nehmen Sie die Micro-SD-Karte im Songprompter aus dem Gerät und legen Sie diese in Ihren Computer ein (ein entsprechender Kartenleser wird benötigt)
+  * Öffnen Sie die Datei config.txt auf der SD-Karte mit einem Texteditor - beispielsweise mit [Notepad++](https://notepad-plus-plus.org/)
+  * Anschließend suchen Sie die Zeile "# display_rotate=0".
+  * Fügen Sie darunter folgende Zeile ein: "display_rotate=x" wobei Sie x durch einen der folgenden Werte ersetzen:
+
+|Wert |	Rotation |
+|-----|----------|
+| 0 |	normal |
+| 1 |	90° |
+| 2 |	180° |
+| 3 |	270° |
+| 0x10000 |	horizontal spiegeln |
+| 0x20000 |	vertikal spiegeln |
 
 [zurück](/)
 
