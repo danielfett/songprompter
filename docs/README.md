@@ -29,9 +29,9 @@ Der Songprompter wurde entwickelt von Christian und Daniel Fett. Christian, Sän
 
 Hier gehts zur [Bedienungsanleitung](/bedienung).
 
-# Kontakt
+# Kauf und Kontakt
 
-Für alle Fragen zum Songprompter und um etwaige Fehler zu melden wenden Sie sich bitte per E-Mail an [songprompter@danielfett.de](mailto:songprompter@danielfett.de).
+Bei Interesse am Songprompter oder der Songprompter-Software für den Raspberry Pi wenden Sie sich bitte per E-Mail an [kontakt@songprompter.de](mailto:kontakt@songprompter.de). 
 
 # Impressum
 
@@ -43,4 +43,4 @@ Zehntstraße 11
 
 Tel. 0176 20157638
 
-E-Mail [songprompter@danielfett.de](mailto:songprompter@danielfett.de)
+E-Mail [kontakt@songprompter.de](mailto:kontakt@songprompter.de)
