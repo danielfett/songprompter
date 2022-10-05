@@ -31,7 +31,7 @@ Hier gehts zur [Bedienungsanleitung](/bedienung).
 
 # Kauf und Kontakt
 
-Bei Interesse am Songprompter oder der Songprompter-Software für den Raspberry Pi wenden Sie sich bitte per E-Mail an [kontakt@songprompter.de](mailto:kontakt@songprompter.de). 
+Aktuell steht das Gerät bzw. die Software nicht zum Verkauf. Wenn du informiert werden möchtest, sobald das Gerät wieder zum Verkauf steht, schreib bitte eine Mail an [kontakt@songprompter.de](mailto:kontakt@songprompter.de). 
 
 # Impressum
 
