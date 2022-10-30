@@ -1,7 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import 'jekyll-theme-architect';
+
+
 
 a[href="https://github.com/webhamster/songprompter"] {
   display: none;
