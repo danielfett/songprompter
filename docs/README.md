@@ -31,7 +31,7 @@ Hier gehts zur [Bedienungsanleitung](/bedienung).
 
 # Kauf und Kontakt
 
-Aktuell steht das Gerät bzw. die Software nicht zum Verkauf. Wenn du informiert werden möchtest, sobald das Gerät wieder zum Verkauf steht, schreib bitte eine Mail an [kontakt@songprompter.de](mailto:kontakt@songprompter.de). 
+Aktuell steht das Gerät bzw. die Software nicht zum Verkauf. Wir arbeiten gerade an einer **neuen Version,** die wir auch in größeren Stückzahlen anbieten können - bis das soweit ist, werden aber noch ein paar Monate vergehen. Wenn du informiert werden möchtest, sobald das Gerät wieder zum Verkauf steht oder falls wir Tester für Vorseriengeräte suchen, trage dich bitte in [dieses Formular](https://forms.gle/aCNaWUXdrSyFhcGe9) ein. 
 
 # Impressum
 
